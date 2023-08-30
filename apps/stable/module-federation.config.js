@@ -1,4 +1,4 @@
 module.exports = {
   name: 'stable',
-  remotes: ['cms'],
+  remotes: ['cms', 'nser'],
 };

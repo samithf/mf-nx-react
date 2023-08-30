@@ -23,7 +23,10 @@ const prodConfig = {
    *   ['app2', 'http://example.com/path/to/app2/remoteEntry.js'],
    * ]
    */
-  remotes: [['cms', '//localhost:4201/']],
+  remotes: [
+    ['cms', '//localhost:4201/'],
+    ['nser', '//localhost:4202/'],
+  ],
 };
 
 // Nx plugins for webpack to build config object from Nx options and context.

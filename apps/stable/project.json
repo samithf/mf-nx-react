@@ -17,7 +17,7 @@
         "main": "apps/stable/src/main.ts",
         "tsConfig": "apps/stable/tsconfig.app.json",
         "assets": ["apps/stable/src/favicon.ico", "apps/stable/src/assets"],
-        "styles": [],
+        "styles": ["apps/stable/src/styles.css"],
         "scripts": [],
         "isolatedConfig": true,
         "webpackConfig": "apps/stable/webpack.config.js"

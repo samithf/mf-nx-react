@@ -1,6 +1,7 @@
 module.exports = {
   name: 'cms',
   exposes: {
-    './Module': './src/remote-entry.ts',
+    './create-banner': './src/app/create-banner/create-banner',
+    './planned-outage': './src/app/planned-outage/planned-outage',
   },
 };
