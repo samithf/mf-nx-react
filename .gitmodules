@@ -1,3 +1,12 @@
 [submodule "libs/shared"]
 	path = libs/shared
 	url = https://github.com/samithf/mf-nx-react-shared.git
+[submodule "apps/stable"]
+	path = apps/stable
+	url = https://github.com/samithf/mf-nx-react-stable.git
+[submodule "apps/cms"]
+	path = apps/cms
+	url = https://github.com/samithf/mf-nx-react-cms.git
+[submodule "apps/nser"]
+	path = apps/nser
+	url = https://github.com/samithf/mf-nx-react-nser.git
